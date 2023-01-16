@@ -2,6 +2,12 @@
 
 - 💬 [My GitHub Pages](https://jingwora.github.io/index.html)
 
+Hightlights:
+
+- 📕 [bioinformatics-on-cloud](https://jingwora.github.io/index.html](https://github.com/jingwora/bioinformatics-on-cloud)
+- 📕 [C tutorial](https://github.com/jingwora/c_tutorial)
+
+
 <!--
 **jingwora/jingwora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
