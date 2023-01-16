@@ -5,6 +5,7 @@
 Hightlights:
 
 - 📕 [bioinformatics-on-cloud](https://github.com/jingwora/bioinformatics-on-cloud)
+  - 📄[SAM tools](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/SAMtools/SAMtools_v-01.ipynb)
 - 📕 [C tutorial](https://github.com/jingwora/c_tutorial)
 
 
