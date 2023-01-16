@@ -4,7 +4,7 @@
 
 Hightlights:
 
-- 📕 [bioinformatics-on-cloud](https://jingwora.github.io/index.html](https://github.com/jingwora/bioinformatics-on-cloud)
+- 📕 [bioinformatics-on-cloud](https://github.com/jingwora/bioinformatics-on-cloud)
 - 📕 [C tutorial](https://github.com/jingwora/c_tutorial)
 
 
