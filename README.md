@@ -2,15 +2,15 @@
 
 - 💬 [My GitHub Pages](https://jingwora.github.io/index.html)
 
-Hightlights:
+Bioinformatics:
 
-- 📕 [bioinformatics-on-cloud](https://github.com/jingwora/bioinformatics-on-cloud)
+- 📕 [bioinformatics-tools](https://github.com/jingwora/bioinformatics-on-cloud)
   - 📄 [SAM tools](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/SAMtools/SAMtools_v-01.ipynb)
   - 📄 [Pysam](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/pysam/pysam_v-01.ipynb)
   - 📄 [tsinfer (tskit)](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/tsinfer/Tskit-tsinfer_v-01.ipynb)
   - 📄 [msprime (tskit)](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/msprime/msprime_v-01.ipynb)
   - 📄 [BWA](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/bwa/bwa_v-02-03.ipynb)
-  - 📄 Snakemake
+  - 📄 [Snakemake](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
 - 📕 [C tutorial](https://github.com/jingwora/c_tutorial)
 
 
