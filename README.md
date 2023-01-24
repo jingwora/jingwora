@@ -5,6 +5,7 @@
 Bioinformatics:
 
 - 📕 [bioinformatics-tools](https://github.com/jingwora/bioinformatics-on-cloud)
+  - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
   - 📄 [SAM tools](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/SAMtools/SAMtools_v-01.ipynb)
   - 📄 [Pysam](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/pysam/pysam_v-01.ipynb)
   - 📄 [tsinfer (tskit)](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/tsinfer/Tskit-tsinfer_v-01.ipynb)
