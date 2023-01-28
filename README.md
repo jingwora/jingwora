@@ -12,6 +12,12 @@ Bioinformatics:
   - 📄 [msprime (tskit)](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/msprime/msprime_v-01.ipynb)
   - 📄 [BWA](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/bwa/bwa_v-02-03.ipynb)
   - 📄 [Snakemake](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
+ 
+- 📕 Project Management
+  - 📄 [Makefiles](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Makefile/Makefile-tutorial.ipynb)
+  - 📄 [Docker](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/docker/docker-tutorial.ipynb)
+  - 📄 [Singularity]()
+  - 
 - 📕 [C tutorial](https://github.com/jingwora/c_tutorial)
 
 
