@@ -16,7 +16,7 @@ Bioinformatics:
 - 📕 Project Management
   - 📄 [Makefiles](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Makefile/Makefile-tutorial.ipynb)
   - 📄 [Docker](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/docker/docker-tutorial.ipynb)
-  - 📄 [Singularity]()
+  - 📄 [Singularity](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/singularity/Singularity-01-lolcow.ipynb)
  
 - 📕 [C tutorial](https://github.com/jingwora/c_tutorial)
 
