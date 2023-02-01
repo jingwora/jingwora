@@ -12,6 +12,8 @@ Bioinformatics (Under production🌱):
   - 📄 [msprime (tskit)](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/msprime/msprime_v-01.ipynb)
   - 📄 [BWA](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/bwa/bwa_v-02-03.ipynb)
   - 📄 [fastqc](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/fastqc/fastqc.ipynb)
+  - 📄 [trimmomatic](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/trimmomatic/trimmomatic.ipynb)
+ 
  
 - 📕 Project Management
   - 📄 [bioconda mumba](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/bioconda/bioconda.ipynb)
