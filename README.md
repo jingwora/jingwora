@@ -13,7 +13,7 @@ Bioinformatics (Under production🌱):
   - 📄 [BWA](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/bwa/bwa_v-02-03.ipynb)
   - 📄 [fastqc](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/fastqc/fastqc.ipynb)
   - 📄 [trimmomatic](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/trimmomatic/trimmomatic.ipynb)
- 
+  - 📄 [InSilicoSeq](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/InSilicoSeq/InSilicoSeq.ipynb)
  
 - 📕 Project Management
   - 📄 [bioconda mumba](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/bioconda/bioconda.ipynb)
