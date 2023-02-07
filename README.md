@@ -10,7 +10,7 @@ Bioinformatics (Under production🌱):
 |:-----------:|:---------:|:----------:|:-----------:|
 | SAMtools    | A   suite of tools for manipulating alignments in the SAM format                                              | C          | [demo](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/SAMtools/SAMtools_v-01.ipynb) |
 | Pysam       | A   Python module for reading and manipulating SAM/BAM files                                                  | Python     | [demo](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/pysam/pysam_v-01.ipynb)  |
-| GATK       | The Genome Analysis Toolkit, a software package for variant discovery in high-throughput sequencing data | Java     | [github](https://gatk.broadinstitute.org/) |
+| GATK       | The Genome Analysis Toolkit, a software package for variant discovery in high-throughput sequencing data | Java     | [demo](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Gatk/Gatk_variant_call.ipynb) |
 | Picard       | A set of Java command line tools for manipulating high-throughput sequencing (HTS) data and formats such as SAM/BAM/CRAM and VCF | Java     | [github](https://broadinstitute.github.io/picard/) |
 | tsinfer     | A   tool for inferring true evolutionary trees from large multiple sequence   alignments                      | C++        |  [demo](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/tsinfer/Tskit-tsinfer_v-01.ipynb) |
 | msprime     | A   coalescent simulation program that implements the forward-time population   genetics simulation algorithm | Python     |  [demo](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/msprime/msprime_v-01.ipynb) |
@@ -25,6 +25,7 @@ Bioinformatics (Under production🌱):
   - 📄 [Snakemake](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
   - 📄 [Docker](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/docker/docker-tutorial.ipynb)
   - 📄 [Singularity](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/singularity/Singularity-01-lolcow.ipynb)
+  - 📄 [Git](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Git/Git.ipynb)
  
 - 📕 [C tutorial](https://github.com/jingwora/c_tutorial)
 
