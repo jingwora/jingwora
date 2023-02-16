@@ -27,7 +27,7 @@ Bioinformatics (Under production🌱):
   - 📄 [Singularity](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/singularity/Singularity-01-lolcow.ipynb)
   - 📄 [Git](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Git/Git.ipynb)
  
- - 📕 Others
+- 📕 Others
   - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
   - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
 
