@@ -2,9 +2,12 @@
 
 - 💬 [My GitHub Pages](https://jingwora.github.io/index.html)
 
-Bioinformatics (Under production🌱):
-
-- 📕 [bioinformatics-tools](https://github.com/jingwora/bioinformatics-on-cloud)
+### LLMs Tutorial
+- [LangChain-Completed-tutorial](https://github.com/jingwora/LangChain-tutorial)
+- [ChatGPT-Prompt-Engineering-for-Developers](https://github.com/jingwora/ChatGPT-Prompt-Engineering-for-Developers)
+- [Databricks-Professional-Certificate-in-Large-Language-Models](https://github.com/jingwora/Databricks-Professional-Certificate-in-Large-Language-Models)
+  
+### Others Tutorial
 
 | Tools | Brief Description | Written in | Link |
 |:-----------:|:---------:|:----------:|:-----------:|
