@@ -2,17 +2,16 @@
 
 - 💬 [My GitHub Pages](https://jingwora.github.io/index.html)
 
-### LLMs Tutorials
+### 📕LLMs Tutorials
 - [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
 - [ChromaDB-Tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
 - [Databricks-Professional-Certificate-in-Large-Language-Models](https://github.com/jingwora/Databricks-Professional-Certificate-in-Large-Language-Models)
 - [ChatGPT-Prompt-Engineering](https://github.com/jingwora/ChatGPT-Prompt-Engineering-for-Developers)
 
-- 📕 Others Tutorials
-  - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
-  - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
- 
-  - 
+### 📕 Others Tutorials
+- 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
+- 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
+  
 ### Memos
 
 | Tools | Brief Description | Written in | Link |
