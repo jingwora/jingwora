@@ -7,8 +7,13 @@
 - [ChromaDB-Tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
 - [Databricks-Professional-Certificate-in-Large-Language-Models](https://github.com/jingwora/Databricks-Professional-Certificate-in-Large-Language-Models)
 - [ChatGPT-Prompt-Engineering](https://github.com/jingwora/ChatGPT-Prompt-Engineering-for-Developers)
-  
-### Others Tutorials
+
+- 📕 Others Tutorials
+  - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
+  - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
+ 
+  - 
+### Memos
 
 | Tools | Brief Description | Written in | Link |
 |:-----------:|:---------:|:----------:|:-----------:|
@@ -31,9 +36,6 @@
   - 📄 [Singularity](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/singularity/Singularity-01-lolcow.ipynb)
   - 📄 [Git](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Git/Git.ipynb)
  
-- 📕 Others
-  - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
-  - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
 
 <!--
 **jingwora/jingwora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
