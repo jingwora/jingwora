@@ -3,14 +3,23 @@
 - 💬 Please visit my [My GitHub Pages](https://jingwora.github.io/index.html)
 
 ### 📕 LLMs Tutorials
-- [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
-- [ChromaDB-Tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
-- [Databricks-Professional-Certificate-in-Large-Language-Models](https://github.com/jingwora/Databricks-Professional-Certificate-in-Large-Language-Models)
-- [ChatGPT-Prompt-Engineering](https://github.com/jingwora/ChatGPT-Prompt-Engineering-for-Developers)
+- 📄 [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
+- 📄 [ChromaDB-Tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
+- 📄 [Databricks-Professional-Certificate-in-Large-Language-Models](https://github.com/jingwora/Databricks-Professional-Certificate-in-Large-Language-Models)
+- 📄 [ChatGPT-Prompt-Engineering](https://github.com/jingwora/ChatGPT-Prompt-Engineering-for-Developers)
 
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
 - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
+
+
+### 🤖 AI DEMOs
+- 💬 [Contents Q&A](https://huggingface.co/spaces/jingwora/language-question-answering)
+- 💬 [Summarization multilang](https://huggingface.co/spaces/jingwora/language-summarize-multilang-mT5)
+- 💬 [Content Classification](https://huggingface.co/spaces/jingwora/language-emotion-classification-ja)
+- 💬 [Content Similarity](https://huggingface.co/spaces/jingwora/language-sentence-similarity)
+- 👁️ [Image Classification-Interpretation](https://huggingface.co/spaces/jingwora/vision-image-classification-interpretation)
+- 👁️ [Sketch Image Classification](https://huggingface.co/spaces/jingwora/vision-sketch-recognition)
 
 ### 📕 Project Management Summary
   - 📄 [Git](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Git/Git.ipynb)
