@@ -13,12 +13,12 @@
 - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
 
 ### 📕 Project Management Summary
-  - 📄 [bioconda mumba](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/bioconda/bioconda.ipynb)
-  - 📄 [Makefiles](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Makefile/Makefile-tutorial.ipynb)
-  - 📄 [Snakemake](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
-  - 📄 [Docker](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/docker/docker-tutorial.ipynb)
-  - 📄 [Singularity](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/singularity/Singularity-01-lolcow.ipynb)
   - 📄 [Git](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Git/Git.ipynb)
+  - 📄 [Docker](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/docker/docker-tutorial.ipynb)
+  - 📄 [Makefiles](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Makefile/Makefile-tutorial.ipynb)
+  - 📄 [Singularity](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/singularity/Singularity-01-lolcow.ipynb)     
+  - 📄 [bioconda mumba](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/bioconda/bioconda.ipynb)
+  - 📄 [Snakemake](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
 
 <!--
 **jingwora/jingwora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
