@@ -2,7 +2,7 @@
 
 - 💬 [My GitHub Pages](https://jingwora.github.io/index.html)
 
-### 📕LLMs Tutorials
+### 📕 LLMs Tutorials
 - [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
 - [ChromaDB-Tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
 - [Databricks-Professional-Certificate-in-Large-Language-Models](https://github.com/jingwora/Databricks-Professional-Certificate-in-Large-Language-Models)
