@@ -4,7 +4,7 @@
 
 ### 📕 LLMs Tutorials
 - 📄 [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
-- 📄 [ChromaDB-Tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
+- 📄 [ChromaDB-tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
 - 📄 [Databricks-Professional-Certificate-in-Large-Language-Models](https://github.com/jingwora/Databricks-Professional-Certificate-in-Large-Language-Models)
 - 📄 [ChatGPT-Prompt-Engineering](https://github.com/jingwora/ChatGPT-Prompt-Engineering-for-Developers)
 
