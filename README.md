@@ -5,6 +5,18 @@
 - 🗏 [PROJECTS](https://jingwora.github.io/projects.html)
 - 🗏 [CONTACT](https://jingwora.github.io/contacts.html)
 
+----
+
+### 🤖 AI DEMOs
+- 💬 [Contents Q&A](https://huggingface.co/spaces/jingwora/language-question-answering)
+- 💬 [Summarization multilang](https://huggingface.co/spaces/jingwora/language-summarize-multilang-mT5)
+- 💬 [Content Classification](https://huggingface.co/spaces/jingwora/language-emotion-classification-ja)
+- 💬 [Content Similarity](https://huggingface.co/spaces/jingwora/language-sentence-similarity)
+- 👁️ [Image Classification-Interpretation](https://huggingface.co/spaces/jingwora/vision-image-classification-interpretation)
+- 👁️ [Sketch Image Classification](https://huggingface.co/spaces/jingwora/vision-sketch-recognition)
+
+----
+
 ### 📕 LLMs Tutorials
 - 📄 [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
 - 📄 [ChromaDB-tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
@@ -29,16 +41,6 @@
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
 - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
-
-
-
-### 🤖 AI DEMOs
-- 💬 [Contents Q&A](https://huggingface.co/spaces/jingwora/language-question-answering)
-- 💬 [Summarization multilang](https://huggingface.co/spaces/jingwora/language-summarize-multilang-mT5)
-- 💬 [Content Classification](https://huggingface.co/spaces/jingwora/language-emotion-classification-ja)
-- 💬 [Content Similarity](https://huggingface.co/spaces/jingwora/language-sentence-similarity)
-- 👁️ [Image Classification-Interpretation](https://huggingface.co/spaces/jingwora/vision-image-classification-interpretation)
-- 👁️ [Sketch Image Classification](https://huggingface.co/spaces/jingwora/vision-sketch-recognition)
 
 ### 📕 Project Management Summary
   - 📄 [Git](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Git/Git.ipynb)
