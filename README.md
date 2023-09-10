@@ -11,9 +11,17 @@
 ### 📕 ML Tutorials
 - 📄 [Huggingface-tutorial](https://github.com/jingwora/huggingface-tutorial)
 
+### 📕 DB Tutorials
+- 📄 [SQL tutorial](https://jingwora.github.io/contents/tutorial/SQL/SQL.html)
+- 📄 [pyodbc tutorial](https://jingwora.github.io/contents/tutorial/Python/MSSQLServer_pyodbc.html)
+- 📄 [mysql-connector-python tutorial](https://jingwora.github.io/contents/tutorial/Python/MySQL_mysql-connector-python.html)
+- 📄 [MongoDB tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB.html)
+- 📄 [pymongo tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB_pymongo.html)
+
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
 - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
+
 
 
 ### 🤖 AI DEMOs
