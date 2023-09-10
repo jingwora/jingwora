@@ -21,6 +21,11 @@
 - 📄 [MongoDB tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB.html)
 - 📄 [pymongo tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB_pymongo.html)
 
+### 📕 Website Tutorials
+- 📄 [HTML tutorial](https://jingwora.github.io/contents/tutorial/HTML/HTML.html)
+- 📄 [CSS tutorial](https://jingwora.github.io/contents/tutorial/CSS/CSS.html)
+- 📄 [Javascript tutorial](https://jingwora.github.io/contents/tutorial/JS/JS.html)
+
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
 - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
