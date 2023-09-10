@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 💬 Please visit my [My GitHub Pages](https://jingwora.github.io/index.html)
+💬 Please visit my [My GitHub Pages🌐](https://jingwora.github.io/index.html)
+- 🗏 [SKILLS](https://jingwora.github.io/skills.html)
+- 🗏 [PROJECTS](https://jingwora.github.io/projects.html)
+- 🗏 [CONTACT](https://jingwora.github.io/contacts.html)
 
 ### 📕 LLMs Tutorials
 - 📄 [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
