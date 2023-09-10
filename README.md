@@ -25,6 +25,10 @@
 
 ### 📕 ML Tutorials
 - 📄 [Huggingface-tutorial](https://github.com/jingwora/huggingface-tutorial)
+- 📄 [Python-system-tutorial](https://jingwora.github.io/contents/tutorial/Python/10_Sytem%20Utility.html)
+- 📄 [Python-core-tutorial](https://jingwora.github.io/contents/tutorial/Python/11_Python_core.html)
+- 📄 [Python-numpy-tutorial](https://jingwora.github.io/contents/tutorial/Python/22_Numpy.html)
+- 📄 [Python-pandas-tutorial](https://jingwora.github.io/contents/tutorial/Python/23_Pandas.html)
 
 ### 📕 DB Tutorials
 - 📄 [SQL tutorial](https://jingwora.github.io/contents/tutorial/SQL/SQL.html)
@@ -37,6 +41,8 @@
 - 📄 [HTML tutorial](https://jingwora.github.io/contents/tutorial/HTML/HTML.html)
 - 📄 [CSS tutorial](https://jingwora.github.io/contents/tutorial/CSS/CSS.html)
 - 📄 [Javascript tutorial](https://jingwora.github.io/contents/tutorial/JS/JS.html)
+- 📄 [Web scraping](https://github.com/jingwora/opencode-webscraping/tree/master/notebooks)
+
 
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
