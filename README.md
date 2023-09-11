@@ -14,6 +14,7 @@
 - 💬 [Content Similarity](https://huggingface.co/spaces/jingwora/language-sentence-similarity)
 - 👁️ [Image Classification-Interpretation](https://huggingface.co/spaces/jingwora/vision-image-classification-interpretation)
 - 👁️ [Sketch Image Classification](https://huggingface.co/spaces/jingwora/vision-sketch-recognition)
+- 👁️ [Digit Recognition-AI at the edge](https://jingwora.github.io/contents/projects/digits-recognition/ai.html)
 
 ----
 
