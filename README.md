@@ -32,6 +32,8 @@
 - 📄 [Python-core-tutorial](https://jingwora.github.io/contents/tutorial/Python/11_Python_core.html)
 - 📄 [Python-numpy-tutorial](https://jingwora.github.io/contents/tutorial/Python/22_Numpy.html)
 - 📄 [Python-pandas-tutorial](https://jingwora.github.io/contents/tutorial/Python/23_Pandas.html)
+- 📄 [Python-Coding-Resources](https://github.com/jingwora/Python-Coding-Resources/tree/main)
+
 
 ### 📕 DB Tutorials
 - 📄 [SQL tutorial](https://jingwora.github.io/contents/tutorial/SQL/SQL.html)
