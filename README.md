@@ -11,11 +11,12 @@
 - 💬 [ChatBot Powered by GPT4](https://huggingface.co/spaces/jingwora/ChatGPT4-Demo)
 - 💬 [Contents Q&A](https://huggingface.co/spaces/jingwora/language-question-answering)
 - 💬 [Summarization multilang](https://huggingface.co/spaces/jingwora/language-summarize-multilang-mT5)
-- 💬 [Content Classification](https://huggingface.co/spaces/jingwora/language-emotion-classification-ja)
+- 💬 [Content Classification (Emotion & Sentiment)](https://huggingface.co/spaces/jingwora/language-emotion-classification-sentiment-ja)
 - 💬 [Content Similarity](https://huggingface.co/spaces/jingwora/language-sentence-similarity)
 - 👁️ [Image Classification-Interpretation](https://huggingface.co/spaces/jingwora/vision-image-classification-interpretation)
 - 👁️ [Sketch Image Classification](https://huggingface.co/spaces/jingwora/vision-sketch-recognition)
 - 👁️ [Digit Recognition-AI at the edge](https://jingwora.github.io/contents/projects/digits-recognition/ai.html)
+
 
 ----
 
