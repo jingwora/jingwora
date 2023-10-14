@@ -8,6 +8,7 @@
 ----
 
 ### 🤖 AI DEMOs
+- 💬 [ChatBot Powered by GPT4](https://huggingface.co/spaces/jingwora/ChatGPT4-Demo)
 - 💬 [Contents Q&A](https://huggingface.co/spaces/jingwora/language-question-answering)
 - 💬 [Summarization multilang](https://huggingface.co/spaces/jingwora/language-summarize-multilang-mT5)
 - 💬 [Content Classification](https://huggingface.co/spaces/jingwora/language-emotion-classification-ja)
