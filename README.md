@@ -13,20 +13,21 @@
 - 💬 [Summarization multilang](https://huggingface.co/spaces/jingwora/language-summarize-multilang-mT5)
 - 💬 [Content Classification (Emotion & Sentiment)](https://huggingface.co/spaces/jingwora/language-emotion-classification-sentiment-ja)
 - 💬 [Content Similarity](https://huggingface.co/spaces/jingwora/language-sentence-similarity)
+
+- 👁️ [DALLE2_Image_generator_demo](https://huggingface.co/spaces/jingwora/DALLE2_Image_generator_demo)
 - 👁️ [Image Classification-Interpretation](https://huggingface.co/spaces/jingwora/vision-image-classification-interpretation)
 - 👁️ [Sketch Image Classification](https://huggingface.co/spaces/jingwora/vision-sketch-recognition)
 - 👁️ [Digit Recognition-AI at the edge](https://jingwora.github.io/contents/projects/digits-recognition/ai.html)
 
-
 ----
 
 ### 📕 LLMs 
+- 📄 [Generative-AI-Ultimate-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources)
 - 📄 [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
 - 📄 [ChromaDB-tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
 - 📄 [Databricks-Professional-Certificate-in-Large-Language-Models](https://github.com/jingwora/Databricks-Professional-Certificate-in-Large-Language-Models)
 - 📄 [ChatGPT-Prompt-Engineering](https://github.com/jingwora/ChatGPT-Prompt-Engineering-for-Developers)
 - 📄 [ChatGPTの効果的なプロンプトの書き方](https://qiita.com/jingwora/items/c01f9a8eedd3059bcd1d)
-- 📄 [Text-to-Image-Prompts-Resources](https://github.com/jingwora/Text-to-Image-Prompts-Resources)
 
 ### 📕 ML Tutorials
 - 📄 [Huggingface-tutorial](https://github.com/jingwora/huggingface-tutorial)
@@ -35,7 +36,6 @@
 - 📄 [Python-numpy-tutorial](https://jingwora.github.io/contents/tutorial/Python/22_Numpy.html)
 - 📄 [Python-pandas-tutorial](https://jingwora.github.io/contents/tutorial/Python/23_Pandas.html)
 - 📄 [Python-Coding-Resources](https://github.com/jingwora/Python-Coding-Resources/tree/main)
-
 
 ### 📕 DB Tutorials
 - 📄 [SQL tutorial](https://jingwora.github.io/contents/tutorial/SQL/SQL.html)
@@ -49,7 +49,6 @@
 - 📄 [CSS tutorial](https://jingwora.github.io/contents/tutorial/CSS/CSS.html)
 - 📄 [Javascript tutorial](https://jingwora.github.io/contents/tutorial/JS/JS.html)
 - 📄 [Web scraping](https://github.com/jingwora/opencode-webscraping/tree/master/notebooks)
-
 
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
