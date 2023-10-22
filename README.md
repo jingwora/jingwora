@@ -19,9 +19,10 @@
 - 👁️ [Digit Recognition-AI at the edge](https://jingwora.github.io/contents/projects/digits-recognition/ai.html)
 
 ----
+## Generative AI
+- 📄 [Generative-AI-Ultimate-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources)
 
 ### 📕 LLMs 
-- 📄 [Generative-AI-Ultimate-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources)
 - 📄 [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
 - 📄 [ChromaDB-tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
 - 📄 [Scikit-LLM-tutorial](https://github.com/jingwora/jingwora.github.io/blob/master/contents/tutorial/Scikit-LLM/Scikit_LLM.ipynb) 
