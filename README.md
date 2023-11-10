@@ -23,6 +23,7 @@
 - 📄 [Generative-AI-Ultimate-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources)
 
 ### 📕 LLMs 
+- 📄 [LlamaIndex-tutorial](https://github.com/jingwora/LlamaIndex-tutorial)
 - 📄 [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
 - 📄 [ChromaDB-tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
 - 📄 [Scikit-LLM-tutorial](https://github.com/jingwora/jingwora.github.io/blob/master/contents/tutorial/Scikit-LLM/Scikit_LLM.ipynb) 
