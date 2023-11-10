@@ -23,10 +23,10 @@
 - 📄 [Generative-AI-Ultimate-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources)
 
 ### 📕 LLMs 
-- 📄 [LlamaIndex-tutorial](https://github.com/jingwora/LlamaIndex-tutorial)
-- 📄 [LangChain-tutorial](https://github.com/jingwora/LangChain-tutorial)
-- 📄 [ChromaDB-tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
-- 📄 [Scikit-LLM-tutorial](https://github.com/jingwora/jingwora.github.io/blob/master/contents/tutorial/Scikit-LLM/Scikit_LLM.ipynb) 
+- 📄 [LlamaIndex Tutorial](https://github.com/jingwora/LlamaIndex-tutorial)
+- 📄 [LangChain Tutorial](https://github.com/jingwora/LangChain-tutorial)
+- 📄 [ChromaDB Tutorial](https://github.com/jingwora/ChromaDB-Tutorial/tree/main)
+- 📄 [Scikit-LLM-Tutorial](https://github.com/jingwora/jingwora.github.io/blob/master/contents/tutorial/Scikit-LLM/Scikit_LLM.ipynb) 
 - 📄 [Databricks-Professional-Certificate-in-Large-Language-Models](https://github.com/jingwora/Databricks-Professional-Certificate-in-Large-Language-Models)
 - 📄 [ChatGPT-Prompt-Engineering](https://github.com/jingwora/ChatGPT-Prompt-Engineering-for-Developers)
 - 📄 [ChatGPTの効果的なプロンプトの書き方](https://qiita.com/jingwora/items/c01f9a8eedd3059bcd1d)
