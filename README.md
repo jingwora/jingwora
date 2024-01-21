@@ -51,6 +51,7 @@
 - 📄 [HTML tutorial](https://jingwora.github.io/contents/tutorial/HTML/HTML.html)
 - 📄 [CSS tutorial](https://jingwora.github.io/contents/tutorial/CSS/CSS.html)
 - 📄 [Javascript tutorial](https://jingwora.github.io/contents/tutorial/JS/JS.html)
+- 📄 [jQuery-tutorials](https://github.com/jingwora/jquery-tutorials)
 - 📄 [Web scraping](https://github.com/jingwora/opencode-webscraping/tree/master/notebooks)
 
 ### 📕 Others Tutorials
