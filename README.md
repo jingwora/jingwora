@@ -57,7 +57,8 @@
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
 - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
-- 📄 [C# tutorial](https://github.com/jingwora/csharp_tutorial)
+- 📄 [C# tutorial](https://github.com/jingwora/csharp_tutorial)\
+- 📄 [VBA tutorial](https://github.com/jingwora/VBA_tutorial)
 
 ### 📕 Project Management Summary
   - 📄 [Git](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Git/Git.ipynb)
