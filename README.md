@@ -6,7 +6,7 @@
 - 🗏 [CONTACT](https://jingwora.github.io/contacts.html)
 
 ----
-
+## AI/ML Engineer
 ### 🤖 AI DEMOs
 - 💬 [GPTs:Code-Copilot](https://chat.openai.com/g/g-C0NDQQRNi-code-copilot) [Github](https://github.com/jingwora/GPTs-Code-Copilot) (Require Chatgpt plus)
 - 💬 [ChatBot Powered by GPT4](https://huggingface.co/spaces/jingwora/ChatGPT4-Demo)
@@ -19,8 +19,7 @@
 - 👁️ [Sketch Image Classification](https://huggingface.co/spaces/jingwora/vision-sketch-recognition)
 - 👁️ [Digit Recognition-AI at the edge](https://jingwora.github.io/contents/projects/digits-recognition/ai.html)
 
-----
-## Generative AI
+### Generative AI
 - 📄 [Generative-AI-Ultimate-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources)
 
 ### 📕 LLMs 
@@ -44,6 +43,7 @@
 - Tasks: Handle infrastructure, deployment, continuous integration/continuous delivery (CI/CD), and monitoring
 - Focus: Focuses on automation, scalability, and efficiency. 
 
+## Data Engineer
 ### 📕 DB Tutorials
 - 📄 [SQL tutorial](https://jingwora.github.io/contents/tutorial/SQL/SQL.html)
 - 📄 [pyodbc tutorial](https://jingwora.github.io/contents/tutorial/Python/MSSQLServer_pyodbc.html)
@@ -51,6 +51,7 @@
 - 📄 [MongoDB tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB.html)
 - 📄 [pymongo tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB_pymongo.html)
 
+## Front-end Developer
 ### 📕 Website Tutorials
 - 📄 [HTML tutorial](https://jingwora.github.io/contents/tutorial/HTML/HTML.html)
 - 📄 [CSS tutorial](https://jingwora.github.io/contents/tutorial/CSS/CSS.html)
@@ -58,6 +59,7 @@
 - 📄 [jQuery-tutorials](https://github.com/jingwora/jquery-tutorials)
 - 📄 [Web scraping](https://github.com/jingwora/opencode-webscraping/tree/master/notebooks)
 
+## Other
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
 - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
