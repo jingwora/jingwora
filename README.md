@@ -40,6 +40,10 @@
 - 📄 [Python-pandas-tutorial](https://jingwora.github.io/contents/tutorial/Python/23_Pandas.html)
 - 📄 [Python-Coding-Resources](https://github.com/jingwora/Python-Coding-Resources/tree/main)
 
+## DevOps/MLOps Engineer
+- Tasks: Handle infrastructure, deployment, continuous integration/continuous delivery (CI/CD), and monitoring
+- Focus: Focuses on automation, scalability, and efficiency. 
+
 ### 📕 DB Tutorials
 - 📄 [SQL tutorial](https://jingwora.github.io/contents/tutorial/SQL/SQL.html)
 - 📄 [pyodbc tutorial](https://jingwora.github.io/contents/tutorial/Python/MSSQLServer_pyodbc.html)
