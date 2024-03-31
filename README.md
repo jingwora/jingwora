@@ -40,8 +40,8 @@
 - 📄 [Python-Coding-Resources](https://github.com/jingwora/Python-Coding-Resources/tree/main)
 
 ## DevOps/MLOps Engineer
-- Tasks: Handle infrastructure, deployment, continuous integration/continuous delivery (CI/CD), and monitoring
-- Focus: Focuses on automation, scalability, and efficiency. 
+- 📄 [Azure Resource Manager template](https://github.com/jingwora/Azure-Resources/blob/main/README.md)
+
 
 ## Data Engineer
 ### 📕 DB Tutorials
