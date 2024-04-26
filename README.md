@@ -38,6 +38,7 @@
 - 📄 [Python-numpy-tutorial](https://jingwora.github.io/contents/tutorial/Python/22_Numpy.html)
 - 📄 [Python-pandas-tutorial](https://jingwora.github.io/contents/tutorial/Python/23_Pandas.html)
 - 📄 [Python-Coding-Resources](https://github.com/jingwora/Python-Coding-Resources/tree/main)
+- 📄 [Python Environment](https://jingwora.github.io/contents/articles/Python-Environment.html)
 
 ## DevOps/MLOps Engineer
 - 📄 [Azure Resource Manager template](https://github.com/jingwora/Azure-Resources/blob/main/README.md)
@@ -59,12 +60,15 @@
 - 📄 [jQuery-tutorials](https://github.com/jingwora/jquery-tutorials)
 - 📄 [Web scraping](https://github.com/jingwora/opencode-webscraping/tree/master/notebooks)
 
+
+
 ## Other
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
 - 📄 [C tutorial](https://github.com/jingwora/c_tutorial)
 - 📄 [C# tutorial](https://github.com/jingwora/csharp_tutorial)\
 - 📄 [VBA tutorial](https://github.com/jingwora/VBA_tutorial)
+
 
 ### 📕 Project Management Summary
   - 📄 [Git](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Git/Git.ipynb)
