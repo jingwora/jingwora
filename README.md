@@ -41,7 +41,7 @@
 - 📄 [Python Environment](https://jingwora.github.io/contents/articles/Python-Environment.html)
 
 ## DevOps/MLOps Engineer
-- 📄 [Azure Resource Manager template](https://github.com/jingwora/Azure-Resources/blob/main/README.md)
+- 📄 [DevOps Overview](https://github.com/jingwora/DevOps-Engineer/blob/main/README.md)
 
 
 ## Data Engineer
