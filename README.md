@@ -32,6 +32,7 @@
 - 📄 [ChatGPTの効果的なプロンプトの書き方](https://qiita.com/jingwora/items/c01f9a8eedd3059bcd1d)
 - 📄 [Azure AI Search](https://github.com/jingwora/Azure-AI-Search)
 - 📄 [LLM-Guardrails](https://github.com/jingwora/LLM-Guardrails)
+- 📄 [LLM-Evaluation](https://github.com/jingwora/LLM-Evaluation)
 
 ### 📕 ML Tutorials
 - 📄 [Huggingface-tutorial](https://github.com/jingwora/huggingface-tutorial)
