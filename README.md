@@ -64,7 +64,6 @@
 - 📄 [Web scraping](https://github.com/jingwora/opencode-webscraping/tree/master/notebooks)
 - 📄 [Web App](https://github.com/jingwora/Azure-Web-App/blob/main/README.md) 
 
-- 
 ## Other
 ### 📕 Others Tutorials
 - 📄 [Linux Command](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
