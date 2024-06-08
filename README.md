@@ -44,7 +44,8 @@
 - 📄 [Python Environment](https://jingwora.github.io/contents/articles/Python-Environment.html)
 
 ## Backend Engineer
-- 📄 [DevOps Overview](https://github.com/jingwora/DevOps-Engineer/blob/main/README.md)
+- 📄 [API](https://github.com/jingwora/DevOps-Engineer/blob/main/README.md)
+- 📄 [DevOps Engineer](https://github.com/jingwora/DevOps-Engineer)
 - 📄 [AOAI Infra](https://zenn.dev/kkou/articles/openaiseminar)
 
 ## Data Engineer
