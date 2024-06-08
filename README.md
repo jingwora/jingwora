@@ -43,7 +43,7 @@
 - 📄 [Python-Coding-Resources](https://github.com/jingwora/Python-Coding-Resources/tree/main)
 - 📄 [Python Environment](https://jingwora.github.io/contents/articles/Python-Environment.html)
 
-## DevOps/MLOps Engineer
+## Backend Engineer
 - 📄 [DevOps Overview](https://github.com/jingwora/DevOps-Engineer/blob/main/README.md)
 - 📄 [AOAI Infra](https://zenn.dev/kkou/articles/openaiseminar)
 
@@ -55,7 +55,7 @@
 - 📄 [MongoDB tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB.html)
 - 📄 [pymongo tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB_pymongo.html)
 
-## Front-end Developer
+## Frontend Engineer
 ### 📕 Website Tutorials
 - 📄 [HTML tutorial](https://jingwora.github.io/contents/tutorial/HTML/HTML.html)
 - 📄 [CSS tutorial](https://jingwora.github.io/contents/tutorial/CSS/CSS.html)
