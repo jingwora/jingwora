@@ -47,7 +47,10 @@
 - 📄 [API](https://github.com/jingwora/DevOps-Engineer/blob/main/README.md)
 - 📄 [DevOps Engineer](https://github.com/jingwora/DevOps-Engineer)
 - 📄 [AOAI Infra](https://zenn.dev/kkou/articles/openaiseminar)
-- 📄 Security
+
+## Security Engineer
+- 📄 [Code quality Analysis Tools](https://github.com/jingwora/Security-Engineer/tree/main)
+
   
 ## Frontend Engineer
 ### 📕 Website Tutorials
@@ -65,6 +68,7 @@
 - 📄 [mysql-connector-python tutorial](https://jingwora.github.io/contents/tutorial/Python/MySQL_mysql-connector-python.html)
 - 📄 [MongoDB tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB.html)
 - 📄 [pymongo tutorial](https://jingwora.github.io/contents/tutorial/MongoDB/MongoDB_pymongo.html)
+
 
 
 ## Other
