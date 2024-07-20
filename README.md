@@ -35,7 +35,7 @@
 - 📄 [LLM-Evaluation](https://github.com/jingwora/LLM-Evaluation)
 
 ### 📕 IMAGE 
-- 📄 [Image Change detection](https://github.com/jingwora/Image-Change-Detection)
+- 📄 [Image Comparison](https://github.com/jingwora/Image-Comparison)
 
 ### 📕 ML Tutorials
 - 📄 [Huggingface-tutorial](https://github.com/jingwora/huggingface-tutorial)
