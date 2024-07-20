@@ -34,6 +34,9 @@
 - 📄 [LLM-Guardrails](https://github.com/jingwora/LLM-Guardrails)
 - 📄 [LLM-Evaluation](https://github.com/jingwora/LLM-Evaluation)
 
+### 📕 IMAGE 
+- 📄 [Image Change detection](https://github.com/jingwora/Image-Change-Detection)
+
 ### 📕 ML Tutorials
 - 📄 [Huggingface-tutorial](https://github.com/jingwora/huggingface-tutorial)
 - 📄 [Python-system-tutorial](https://jingwora.github.io/contents/tutorial/Python/10_Sytem%20Utility.html)
