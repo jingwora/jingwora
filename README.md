@@ -62,7 +62,8 @@
 - 📄 [Javascript tutorial](https://jingwora.github.io/contents/tutorial/JS/JS.html)
 - 📄 [jQuery-tutorials](https://github.com/jingwora/jquery-tutorials)
 - 📄 [Web scraping](https://github.com/jingwora/opencode-webscraping/tree/master/notebooks)
-- 📄 [Web App](https://github.com/jingwora/Azure-Web-App/blob/main/README.md) 
+- 📄 [Web App](https://github.com/jingwora/Azure-Web-App/blob/main/README.md)
+- 📄 [Python EXE builders](https://github.com/jingwora/Python-EXE-builders/tree/main)
 
 ## Data Engineer
 ### 📕 DB Tutorials
