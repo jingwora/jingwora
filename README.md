@@ -76,7 +76,7 @@
 
 
 ## Other
-### 📕 System Scripts - 📄 [🌐](https://github.com/jingwora/System-Scripts)
+### 📕 System Scripts[🌐](https://github.com/jingwora/System-Scripts)
 - 📄 [Bash](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/linux-command/linux-cmd.ipynb)
 - 📄 [PowerShell](https://github.com/jingwora/System-Scripts/blob/main/PowerShell.md)
 - 📄 [Azure-CLIl](https://github.com/jingwora/System-Scripts/blob/main/Azure-CLI.md)
