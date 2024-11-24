@@ -50,6 +50,7 @@
 - 📄 [API](https://github.com/jingwora/DevOps-Engineer/blob/main/README.md)
 - 📄 [DevOps Engineer](https://github.com/jingwora/DevOps-Engineer)
 - 📄 [AOAI Infra](https://zenn.dev/kkou/articles/openaiseminar)
+- 📊 [piptrends Python API](https://piptrends.com/compare/fastapi-vs-flask-vs-django)
 
 ## Security Engineer
 - 📄 [Code quality Analysis Tools](https://github.com/jingwora/Security-Engineer/tree/main)
