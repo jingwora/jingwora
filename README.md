@@ -64,7 +64,10 @@
 - 📄 [Web scraping](https://github.com/jingwora/opencode-webscraping/tree/master/notebooks)
 - 📄 [Web App](https://github.com/jingwora/Azure-Web-App/blob/main/README.md)
 - 📄 [Python EXE builders](https://github.com/jingwora/Python-EXE-builders/tree/main)
-- 📈 [npmtrends ORM](https://npmtrends.com/knex-vs-prisma-vs-sequelize-vs-typeorm)
+- 📊 [npmtrends Framework](https://npmtrends.com/astro-vs-gatsby-vs-next-vs-nuxt-vs-remix-vs-vue)
+- 📊 [npmtrends ORM](https://npmtrends.com/knex-vs-prisma-vs-sequelize-vs-typeorm)
+
+
 
 ## Data Engineer
 ### 📕 DB Tutorials
